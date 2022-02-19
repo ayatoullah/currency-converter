@@ -1,0 +1,21 @@
+.converter {
+    
+}
+
+input {
+    border : 1px solid gray;
+    line-height: 1.5rem;
+    border-radius: 0.25rem;
+    margin-right: 0.5rem;
+    font-size: 1rem;
+    padding:0.25rem;
+}
+select {
+    border : 1px solid gray;
+    height: 2rem;
+    border-radius: 0.25rem;
+    width:4rem;
+    font-size: 1rem;
+    padding:0.25rem;
+
+}
