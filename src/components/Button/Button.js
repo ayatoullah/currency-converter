@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import "./Button.css";
 
 const Button = ({text, onClick}) => {
   return (
-    <button type="button" onClick={() => onClick()}>{text}</button>
+    <button type="button" className='convert-btn btn btn-light' onClick={() => onClick()}>{text}</button>
   )
 }
 
